@@ -489,12 +489,6 @@ body {
   .season-info__num span {
     font-size: 28px;
   }
-  /* .slick-prev {
-    left: 18px;
-  }
-  .slick-next {
-    right: 18px;
-  } */
 }
 
 @media (max-width: 640px) {
