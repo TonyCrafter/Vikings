@@ -398,7 +398,7 @@ body {
   }
   .heroes__slider-text {
     max-width: 100%;
-    padding-top: 30px;
+    padding-top: 50px;
   }
 }
 
@@ -489,6 +489,12 @@ body {
   .season-info__num span {
     font-size: 28px;
   }
+  /* .slick-prev {
+    left: 18px;
+  }
+  .slick-next {
+    right: 18px;
+  } */
 }
 
 @media (max-width: 640px) {
@@ -553,6 +559,10 @@ body {
   }
   .page-header {
     height: 160vh;
+  }
+  .slick-btn {
+    top: 113%;
+    width: 40px;
   }
 }
 
